@@ -1,0 +1,9 @@
+coding test
+
+#Part 4 This is SpringBoot project that contains a RestController in the controller package, InterviewController. It has the RestAPI "/interviews" with a method named getInterviewChallenges.
+
+#Part 1 It contains a package 'domain' that contains the Challenge domain model as an answer to the Part 1.
+
+#Part 2 Also it contains a package 'part123' that contains the isPassing() method as an answer to the Part 2.
+
+#Part 3 And finally I have the junit test added to my project to test the isPassing() method in Part 2.
